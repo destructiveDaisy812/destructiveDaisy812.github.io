@@ -1,0 +1,115 @@
+/*
+selector {
+	property: value}
+	*/
+	
+	h1{
+	
+	font-size: 300%;
+	
+	}
+	
+	
+	
+em{ 
+font-weight: bold;
+text-transform:uppercase;
+
+}	
+
+
+strong{
+
+color: pink;
+background-color:magenta;
+
+}
+	
+	
+	body{
+	color: white
+	}
+	
+	
+#allcontent{
+   width:800px;
+   margin-left:auto;
+   margin-right:auto;
+   
+}
+
+	h2 {
+	color: #33CCCC;
+	}
+	
+	td {
+	color: white;
+	}
+	
+	
+	th {
+	color: white;
+	}
+	
+	
+	#order {
+	font-family:Lucida Console;
+	}
+	
+	#order{
+		color: white;
+	}
+	
+	
+	.song{
+	color: #FF0033;
+	
+	}
+	
+	body {
+	background-color: black;
+	}
+	
+	p{
+	color: white;
+	}
+	
+
+	
+#left{
+padding:15px;
+margin:10px;
+width: 150px;
+float: left;
+
+}
+
+#right{
+padding:15px;
+margin:10px;
+width: 150px;
+float: right;
+
+
+}
+
+#middle{
+
+margin:0px 10px 10px 250px;
+width: 150px;
+
+}
+
+
+.scrollbox{
+height:200px;
+width:500px;
+overflow:scroll;
+float: right;
+}
+
+.box{
+border: 20px groove green;
+width:700px;
+background-color:orange;
+}
